@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ichcha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Software+Engineer+%7C+Backend+Development+%26+APIs+%7C+AI-powered+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=500&duration=2000&width=800&center=true&vCenter=true&lines=Software+Engineer;Backend+Development+and+APIs;AI-powered+Solutions" />
 </p>
-
----
 
 ## 🚀 About Me
 - 🎓 B.Tech CSE (Hons) Student  
@@ -46,19 +44,11 @@
 ### 🤖 RAG Chatbot
 - Retrieval-Augmented Generation system using LLMs  
 - Context-aware responses from large documents  
+- Built using LLMs, embeddings, and prompt pipelines  
 
 ### 🚦 Traffic Flow Optimization
 - YOLOv8-based real-time vehicle detection  
 - Adaptive traffic signal control system  
-
----
-
-## 🤖 AI / GenAI Work
-
-- Built Retrieval-Augmented Generation (RAG) chatbot using LLMs and vector embeddings  
-- Worked on CNN-based image classification and computer vision systems  
-- Developed real-time object detection system using YOLOv8  
-- Experience with prompt engineering and LLM-based pipelines
 
 
 ## 📊 GitHub Stats
@@ -69,5 +59,17 @@
 ---
 
 ## 📫 Connect With Me
-- 🔗 LinkedIn: https://www.linkedin.com/in/ichcha-mehrishi-344478289/
-- 💻 GitHub: https://github.com/ichcha03
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ichcha-mehrishi-344478289/">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+  </a>
+
+  <a href="https://github.com/ichcha03">
+    <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  </a>
+
+  <a href="https://leetcode.com/ichcha31">
+    <img src="https://assets.leetcode.com/static_assets/public/icons/favicon-96x96.png" height="40"/>
+  </a>
+</p>
